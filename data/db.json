@@ -1,0 +1,184 @@
+  {
+    "friends": [
+      {
+        "user_name": "Bama",
+        "tasks": [
+          {
+            "task_name": "Write Code",
+            "color": "Red",
+            "timer": 60.0,
+            "progress": 10.0
+          },
+          {
+            "task_name": "Test Code",
+            "color": "Blue",
+            "timer": 60.0,
+            "progress": 10.0
+          },
+          {
+            "task_name": "Deploy Code",
+            "color": "Yellow",
+            "timer": 60.0,
+            "progress": 10.0
+          },
+          {
+            "task_name": "Review Code",
+            "color": "Purple",
+            "timer": 60.0,
+            "progress": 10.0
+          }
+        ]
+      },
+      {
+        "user_name": "John",
+        "tasks": [
+          {
+            "task_name": "Write Code",
+            "color": "Red",
+            "timer": 60.0,
+            "progress": 10.0
+          },
+          {
+            "task_name": "Test Code",
+            "color": "Blue",
+            "timer": 60.0,
+            "progress": 10.0
+          },
+          {
+            "task_name": "Deploy Code",
+            "color": "Yellow",
+            "timer": 60.0,
+            "progress": 10.0
+          },
+          {
+            "task_name": "Review Code",
+            "color": "Purple",
+            "timer": 60.0,
+            "progress": 10.0
+          }
+        ]
+      },
+      {
+        "user_name": "Jane",
+        "tasks": [
+          {
+            "task_name": "Write Code",
+            "color": "Red",
+            "timer": 60.0,
+            "progress": 10.0
+          },
+          {
+            "task_name": "Test Code",
+            "color": "Blue",
+            "timer": 60.0,
+            "progress": 10.0
+          },
+          {
+            "task_name": "Deploy Code",
+            "color": "Yellow",
+            "timer": 60.0,
+            "progress": 10.0
+          },
+          {
+            "task_name": "Review Code",
+            "color": "Purple",
+            "timer": 60.0,
+            "progress": 10.0
+          }
+        ]
+      },
+      {
+        "user_name": "Black man",
+        "tasks": [
+          {
+            "task_name": "Write Code",
+            "color": "Red",
+            "timer": 60.0,
+            "progress": 10.0
+          },
+          {
+            "task_name": "Test Code",
+            "color": "Blue",
+            "timer": 60.0,
+            "progress": 10.0
+          },
+          {
+            "task_name": "Deploy Code",
+            "color": "Yellow",
+            "timer": 60.0,
+            "progress": 10.0
+          },
+          {
+            "task_name": "Review Code",
+            "color": "Purple",
+            "timer": 60.0,
+            "progress": 10.0
+          }
+        ]
+      },
+      {
+        "user_name": "Jack",
+        "tasks": [
+          {
+            "task_name": "Write Code",
+            "color": "Red",
+            "timer": 60.0,
+            "progress": 10.0
+          },
+          {
+            "task_name": "Test Code",
+            "color": "Blue",
+            "timer": 60.0,
+            "progress": 10.0
+          },
+          {
+            "task_name": "Deploy Code",
+            "color": "Yellow",
+            "timer": 60.0,
+            "progress": 10.0
+          },
+          {
+            "task_name": "Review Code",
+            "color": "Purple",
+            "timer": 60.0,
+            "progress": 10.0
+          }
+        ]
+      }
+    ],
+    "profile": {
+      "user_name": "John Doe",
+      "tasks": [
+        {
+          "task_name": "Write Code",
+          "color": "Red",
+          "timer": 60.0,
+            "progress": 10.0
+        },
+        {
+          "task_name": "Test Code",
+          "color": "Blue",
+          "timer": 60.0,
+            "progress": 10.0
+        },
+        {
+          "task_name": "Deploy Code",
+          "color": "Yellow",
+          "timer": 60.0,
+            "progress": 10.0
+        },
+        {
+          "task_name": "Review Code",
+          "color": "Purple",
+          "timer": 60.0,
+            "progress": 10.0
+        },
+        {
+          "task_name": "Stubmle  Code",
+          "color": "Purple",
+          "timer": 60.0,
+          "progress": 10.0
+        }
+      ]
+    }
+  }
